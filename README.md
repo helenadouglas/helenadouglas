@@ -23,8 +23,7 @@ I am currently on my 2nd year of studying Applied Data Technology at OsloMet wit
 
 ### Github stats
 
-<a href="http://www.github.com/helenadouglas"><img src="https://github-readme-stats.vercel.app/api?username=helenadouglas&show_icons=true&hide=issues,&count_private=true&title_color=10b981&text_color=444e59&icon_color=10b981&bg_color=ffffff&hide_border=true&show_icons=true" alt="helenadouglas's GitHub stats" /></a>
-
+<a href="http://www.github.com/helenadouglas"><img src="https://github-readme-stats.vercel.app/api?username=helenadouglas&show_icons=true&hide=prs,issues,&count_private=true&title_color=10b981&text_color=444e59&icon_color=10b981&bg_color=ffffff&hide_border=true&show_icons=true" alt="helenadouglas's GitHub stats" /></a>
 <!--
 **helenadouglas/helenadouglas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
