@@ -3,7 +3,7 @@
 My name is Helena Douglas
 -------------------------
 
-I am currently on my 2nd year of studying Applied Data Technology at OsloMet with a specialisation in programming.
+I am currently on my 3rd year of studying Applied Data Technology at OsloMet with a specialisation in programming.
 
 <p>🌍  I'm based in Oslo, Norway</p>
 <p>🌱 I’m learning Java and JavaScript at the moment</p>
