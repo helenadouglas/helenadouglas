@@ -3,10 +3,10 @@
 My name is Helena Douglas
 -------------------------
 
-I am currently on my 3rd year of studying Applied Data Technology at OsloMet with a specialisation in programming.
+I am currently on my 1st year of my masters degree in Informatics: Programming and Systems Architechture at the University of Oslo. I have a bachelors degree in Applied Data Technology from OsloMet with a specialisation in programming.
 
-<p>🌍  I'm based in Oslo, Norway, and recently came back after doing a semester abroad in Brisbane, Australia</p>
-<p>🌱 I’m learning Java and JavaScript at the moment</p>
+<p>🌍 I'm based in Oslo, Norway</p>
+<p>🌱 I primarily use Java, JavaScript and React for fullstack developing</p>
 <p>💚 Focusing on learning more frameworks and languages</p>
 
 ### Socials
